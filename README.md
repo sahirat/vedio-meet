@@ -2,7 +2,7 @@
 
 this vedio chat  app is make using socket.io and webrtc app with react js as front end
 
-#  for running this aapp just type-😎😎😎😎😎😎
+#  for running this app just type-😎😎😎😎😎😎
 
 npm install 
 
